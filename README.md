@@ -2,12 +2,20 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
-<h1 align="center">Hi 👋, I'm Subash Shrestha</h1> 
-# 💫 About Me:
-🎓 Computer Engineering Student (1st Semester)<br>📍 Thapathali Campus, Nepal<br><br>I am at the beginning of my journey to be better.<br>Currently, I am learning C programming as part of my academic curriculum, while<br>independently exploring automation, workflow design, and system thinking using<br>Make.com.
 
+<h1 align="center">Hi 👋, I'm Subash Shrestha</h1> 
+
+## 💫 About Me:
+🎓 Computer Engineering Student (1st Semester)<br>📍 Thapathali Campus, Nepal<br>
+### What I’m Currently Learning
+
+- C Programming (basics, logic building)
+- Computer Engineering fundamentals
+- Workflow automation using Make.com
+- System design and process automation
+- Documentation and project structuring
 ---
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
